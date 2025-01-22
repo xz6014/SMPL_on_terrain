@@ -1,4 +1,4 @@
-# SMPL_on_terrain
+# SMPL on terrain (SCENIC Dataset)
 
 Pairing up your human motion with terrains to build height-adaptive motion models? This repository contains the **SCENIC dataset** for motion-scene-text data sequences, enabling research in motion modeling and scene-aware control.
 
@@ -8,7 +8,7 @@ Pairing up your human motion with terrains to build height-adaptive motion model
 
 You can download the necessary components from the following links:
 - **SCENIC Dataset**: [Download here](https://drive.google.com/file/d/1YdjEj1XIA_Nck54u_njminoMJzjCgeXN/view?usp=sharing)
-- **Terrain Asset**: [Download here](<insert-terrain-url>)
+- **Terrain Asset**: [Download here](<https://drive.google.com/file/d/14rdGYbPMSpgQCsK3mnjZC6UkVV_AVEPC/view?usp=sharing>)
 
 ### Breakdown of the Dataset:
 - `npz/`: Contains original motion sequences in the **SMPL** format.
