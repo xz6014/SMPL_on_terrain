@@ -16,7 +16,7 @@ from lib.meshviewer import Mesh, MeshViewer, colors, Floor
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--n_samples", default=3, type=int)
-    parser.add_argument("--npy_path", default="dataset/data_navihuman/pkl/transition_jumping_003_184.pkl", type=str)
+    parser.add_argument("--npy_path", default="SCENIC_dataset/pkl/transition_jumping_003_184.pkl", type=str)
     args = parser.parse_args()
 
     mv = MeshViewer(offscreen=False)
